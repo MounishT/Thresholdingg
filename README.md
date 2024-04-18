@@ -24,8 +24,8 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 
 ## PROGRAM
-### Developed By :T MOUNISH
-### Register Number : 212223240098
+### Developed By : SD ABBU REHAN
+### Register Number : 212223240165
 
 
 ### Load the necessary packages
@@ -77,19 +77,19 @@ for i in range(0,9):
 ## OUTPUT
 
 ### Original Image
-![image](https://github.com/MOUISH/THRESHOLDING-/assets/138849336/009e880c-ab2a-44b4-93e5-7ad3e3af2b6d)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/009e880c-ab2a-44b4-93e5-7ad3e3af2b6d)
 
 ### Global Thresholding
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/b5eaa350-fa5c-4740-ad6c-3671cfd70feb)
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/5922edf8-f313-4178-b0f8-167ffae61f22)
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/7d08afab-6690-4d57-91f2-d4a6acad9ed3)
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/1090f843-04c5-438b-ae32-3f2205b305fc)
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/0e3bc534-c08f-4d46-849a-6a7913044851)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/b5eaa350-fa5c-4740-ad6c-3671cfd70feb)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/5922edf8-f313-4178-b0f8-167ffae61f22)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/7d08afab-6690-4d57-91f2-d4a6acad9ed3)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/1090f843-04c5-438b-ae32-3f2205b305fc)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/0e3bc534-c08f-4d46-849a-6a7913044851)
 
 
 ### Adaptive Thresholding
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/d3469580-fe9a-4852-b3c2-fc30c1d23756)
-![image](https://github.com/MOUNISH/THRESHOLDING-/assets/138849336/a73b2fcc-55bd-4b10-84f2-402bd05d0770)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/d3469580-fe9a-4852-b3c2-fc30c1d23756)
+![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/a73b2fcc-55bd-4b10-84f2-402bd05d0770)
 
 
 
