@@ -79,8 +79,7 @@ for i in range(0,9):
 ![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/009e880c-ab2a-44b4-93e5-7ad3e3af2b6d)
 
 ### Global Thresholding
-![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/b5eaa350-fa5c-4740-ad6c-3671cfd70feb)
-![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/5922edf8-f313-4178-b0f8-167ffae61f22)
+
 ![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/7d08afab-6690-4d57-91f2-d4a6acad9ed3)
 ![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/1090f843-04c5-438b-ae32-3f2205b305fc)
 ![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/0e3bc534-c08f-4d46-849a-6a7913044851)
