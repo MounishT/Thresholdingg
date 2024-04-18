@@ -73,8 +73,7 @@ for i in range(0,9):
     plt.imshow(cv2.cvtColor(images[i],cv2.COLOR_BGR2RGB))
     plt.axis("off")
     plt.show()
-
-## OUTPUT
+### OUTPUT
 
 ### Original Image
 ![image](https://github.com/Abburehan/THRESHOLDING-/assets/138849336/009e880c-ab2a-44b4-93e5-7ad3e3af2b6d)
